@@ -26,7 +26,7 @@ const config = ts.config(
 		rules: { 'no-undef': 'off' },
 	},
 	{
-		files: ['**/*.svelte', '**/*.svelte.ts', '**/*.svelte.js'],
+		files: ['**/*.svelte', '**/*.svelte.ts'],
 		languageOptions: {
 			parserOptions: {
 				projectService: true,
