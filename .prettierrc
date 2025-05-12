@@ -15,5 +15,5 @@
 			}
 		}
 	],
-	"tailwindFunctions": ["mergeClasses", "tv"]
+	"tailwindFunctions": ["cn", "tv"]
 }
